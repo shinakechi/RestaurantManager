@@ -1,0 +1,17 @@
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\bin\x64\Debug\RestaurantManager.Models.dll
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\bin\x64\Debug\RestaurantManager.Models.pdb
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\bin\x64\Debug\RestaurantManager.Models.pri
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\RestaurantManager.Models.dll
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\RestaurantManager.Models.pdb
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\priconfig.xml
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\layout.resfiles
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\resources.resfiles
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\pri.resfiles
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\qualifiers.txt
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\obj\x64\Debug\RestaurantManager.Models.csprojResolveAssemblyReference.cache

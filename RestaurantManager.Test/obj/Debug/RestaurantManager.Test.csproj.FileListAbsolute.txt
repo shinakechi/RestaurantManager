@@ -1,0 +1,5 @@
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Test\bin\Debug\RestaurantManager.Test.dll
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Test\bin\Debug\RestaurantManager.Test.pdb
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Test\obj\Debug\RestaurantManager.Test.csprojResolveAssemblyReference.cache
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Test\obj\Debug\RestaurantManager.Test.dll
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Test\obj\Debug\RestaurantManager.Test.pdb

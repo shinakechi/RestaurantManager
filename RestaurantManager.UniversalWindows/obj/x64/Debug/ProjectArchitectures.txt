@@ -1,0 +1,2 @@
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.Models\RestaurantManager.Models.csproj;x64
+C:\Users\shin.akechi\Coding\xaml\04_Enhancing_Functionality_XAML_Apps\RestaurantManager\RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj;x64
